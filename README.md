@@ -1,2 +1,2 @@
-# hello-world
-My first repository on Github.
+# Bookbot
+Bookbot is my first project!
